@@ -16,12 +16,12 @@ body {
 }
 
 header {
-  background-color: #ff6e1e;
+  background-color: #57068c;
   color: #ffffff;
   display: flex;
   align-items: baseline;
   gap: 24px;
-  padding: 5px;
+  padding: 10px 5px;
   margin-bottom: 5px;
 }
 
